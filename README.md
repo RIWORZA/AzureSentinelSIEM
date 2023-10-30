@@ -1,4 +1,4 @@
-<h1>Siem Azure Sentinel</h1>
+<h1>SIEM Azure Sentinel</h1>
 
 
 <h2>Description</h2>
