@@ -12,6 +12,7 @@ I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as
 - <b>PowerShell</b> 
 - <b>Azure VM</b>
 - <b>IP Geolocation API</b>
+- <b>Log Analytics</b>
 - <b>Azure Sentinel</b>
 
 
@@ -66,3 +67,4 @@ Next we will setup Sentinel so it uses the query we just created.  As you can se
 @@ text in purple (and bold)@@
 ```
 --!>
+
