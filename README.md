@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observed live attacks (RDP Brute Force) from all around the world. I use a custom PowerShell script with a Geolocation API to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
+I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honeypot. I observed live attacks (RDP Brute Force) from all around the world. I use a custom PowerShell script with a Geolocation API to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
 
 <br />
 
